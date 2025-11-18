@@ -1,7 +1,7 @@
 package com.example;
 
-public class HelloWorld {
-    public static void main(String[] args) {
+public class world {
+    public void review(String[] args) {
         System.out.println("Hello World from Java Docker!");
     }
 }
